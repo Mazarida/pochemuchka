@@ -1,0 +1,1062 @@
+@media (max-width: 960px) {
+
+    .home__foots {
+        margin-top: -44.5vw;
+        position: relative;
+        z-index: 123;
+    }
+
+    .yummy__slider-list {
+        height: auto;
+    }
+
+    .fruit_14 {
+        right: -58vw;
+        bottom: 59vw;
+        width: 23vw;
+        height: 26vw;
+    }
+
+    .feedback__form .form__group_textarea label {
+        transform: translateY(-23.875vw);
+    }
+
+    .feedback__form button {
+        width: 40vw;
+        height: 10vw;
+        font-size: 5vw;
+    }
+
+    .feedback__form textarea {
+        font-size: 4vw;
+        height: 24vw;
+    }
+
+    .feedback__form input.has-text + label,
+    .feedback__form textarea.has-text + label,
+    .feedback__form input:focus + label,
+    .feedback__form textarea:focus + label {
+        font-size: 0vw;
+        opacity: 0;
+    }
+
+    .feedback__questions {
+        padding: 0;
+        width: 80vw;
+        font-size: 7.4vw;
+        text-align: center;
+        line-height: 1.1;
+    }
+
+    .feedback__questions:after {
+        display: none;
+    }
+
+    .feedback__questions span {
+        font-size: 6vw;
+    }
+
+    .feedback__cow {
+        display: none;
+    }
+
+    .feedback__form {
+        width: 65vw;
+    }
+
+    .feedback__form form {
+        padding: 8vw;
+    }
+
+    .feedback__form label {
+        font-size: 3.5vw;
+        transform: translateY(-4.75vw);
+        transition: .5s;
+        opacity: 1;
+    }
+
+    .feedback__form input {
+        height: 6vw;
+        font-size: 4vw;
+    }
+
+    .feedback__form .form__error {
+        font-size: 3vw;
+    }
+
+    .section_photo {
+        display: block;
+    }
+
+    .section_photo > .photo:after {
+        content: '';
+        background: #312378;
+        display: block;
+        position: absolute;
+        border-radius: 50%;
+        width: 100%;
+        left: 0;
+        height: 9vw;
+        bottom: -3vw;
+        z-index: 49;
+    }
+
+    .game__stars .game__star {
+        width: 10vw;
+        height: 10vw;
+    }
+
+    .game__medal {
+        width: 20vw;
+        height: 20vw;
+    }
+
+    .game__medal img {
+        padding: 3vw;
+    }
+
+    div#game__medals {
+        text-align: right;
+    }
+
+    .cont.contest__cont {
+        min-width: initial;
+        max-width: initial;
+    }
+
+    .contest__cloud {
+        width: 120vw;
+        height: 70vw;
+        background-size: contain;
+        margin-left: -10vw;
+    }
+
+    .contest__caption {
+        line-height: 1.1;
+        font-size: 6vw;
+        margin-top: 12vw;
+    }
+
+    .contest__caption:after {
+        width: 13vw;
+        height: 12vw;
+        left: 23vw;
+        bottom: -9vw;
+    }
+
+    .photo__cow.photo__cow_1 {
+        display: none;
+    }
+
+    .photo__sticker.photo__sticker_2 {
+        right: -83vw;
+        top: -1vw;
+    }
+
+    .header__nav-menu,
+    .photo__slider-cont {
+        display: none;
+    }
+
+    .section_feedback {
+        margin-top: -1vw;
+        padding-bottom: 62vw;
+        background-position: -9vw bottom;
+    }
+
+    .section_photo:after {
+        display: none;
+    }
+
+    section.section.section_photo {
+        padding-bottom: 8vw;
+    }
+
+    .photo__image {
+        width: 60vw;
+        height: 45vw;
+    }
+
+    .photo__sticker.photo__sticker_1 {
+        display: none;
+    }
+
+    .first__text {
+        font-size: 7vw;
+        line-height: 1.1;
+    }
+
+    .first__text .btn-blue {
+        margin-top: 4vw;
+    }
+
+    a.header__nav-logo {
+        width: 42vw;
+        height: 25vw;
+    }
+
+    ul.header__nav-menu {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        background: rgba(255,255,255,0.9);
+        margin: 0;
+        padding: 0;
+        z-index: 255;
+        overflow: auto;
+    }
+
+    .section_game {
+        min-height: 154vw;
+        margin-top: -7vw;
+        padding-top: 12vw;
+    }
+
+    .game__row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .game__col_cloud {
+        display: flex;
+        width: 88vw;
+        justify-content: space-between;
+    }
+
+    .game__col_medal {
+        width: 100%;
+    }
+
+    .game__points {
+        width: 36vw;
+        padding-top: 12vw;
+    }
+
+    .game__cloud {
+        min-width: initial;
+        width: 57vw;
+        height: 34vw;
+        max-width: initial;
+    }
+
+    .game__result {
+        font-size: 6.5vw;
+    }
+
+    .game__result .game__result-num, .game__result .game__result-total {
+        font-size: 6vw;
+    }
+
+    .mom__slider .slick-dots li button {
+        color: transparent;
+    }
+
+    .yummy__slider .yummy__slider-arrow.next:after {
+        width: 5vw;
+        height: 5vw;
+    }
+
+    .yummy__slider .yummy__slider-arrow.prev:after {
+        width: 5vw;
+        height: 5vw;
+    }
+
+    a.btn-blue {
+        margin: 0 auto;
+        font-size: 6vw;
+        width: 37vw;
+        height: 10vw;
+        line-height: 10vw;
+        color: #fff;
+    }
+
+    .mom__clock {
+        display: none;
+    }
+
+    .mom__she.mom__she_3 {
+        display: none;
+    }
+
+    .mom__she.mom__she_1 {
+        display: none;
+    }
+
+    .mom__tv.wow.swing {
+        width: 100%;
+        height: 45vw;
+        margin-top: 0;
+        margin-bottom: 22vw;
+        padding: 8vw 5vw 0 5vw;
+    }
+
+    .mom__title {
+        font-size: 7.5vw;
+    }
+
+    .mom__anons {
+        font-size: 6vw;
+    }
+
+    .mom__slider .slick-dots li {
+        width: 2vw;
+        height: 2vw;
+    }
+
+    .mom__slider-btn {
+        margin-top: 2vw;
+    }
+
+    .mom__she.mom__she_2 {
+        display: none;
+    }
+
+    .catalog__prod-header br {
+        display: none;
+    }
+
+    .catalog__prod-header {
+        white-space: normal;
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .catalog__prods-row {
+        flex-direction: column;
+    }
+
+    .first__block {
+        max-width: none;
+    }
+
+    .first__cloud {
+        width: 118%;
+        background-position: center;
+        margin-top: -7vw;
+        height: 96vw;
+    }
+
+    .first__cloud:after {
+        left: 40vw;
+        right: auto;
+        bottom: -54vw;
+        width: 56vw;
+        height: 80vw;
+    }
+
+    .section_first {
+        height: 150vw;
+    }
+
+    .fruit.fruit_1 {
+        width: 8vw;
+        height: 8vw;
+    }
+
+    .capt {
+        font-size: 7.5vw;
+        line-height: 1.1;
+    }
+
+    .yummy__slider .yummy__slider-arrow {
+        width: 13vw;
+        height: 13vw;
+    }
+
+    .yummy__slider .yummy__slider-arrow.prev {
+        left: 0;
+    }
+
+    .yummy__slider .yummy__slider-arrow.next {
+        right: 0;
+    }
+
+    .yummy__slider .yummy__slider-text .yummy__anons {
+        font-size: 4vw;
+        width: 59vw;
+    }
+
+    .yummy__slider .yummy__slider-item.slick-center img {
+        transform: scale(1);
+    }
+
+    .ona-privet__img {
+        margin-top: 25vw;
+        width: 95vw;
+        margin-left: 2.5vw;
+        height: 38vw;
+    }
+
+    .footer__credits {
+        color: #d2fc74;
+        text-shadow: 0vw 0vw 1.875vw #000;
+    }
+
+    .own__footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__contacts {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer__credits {
+        text-align: center;
+    }
+
+    .footer__email {
+        font-size: 6vw;
+    }
+
+    .footer__email-icon {
+        width: 8vw;
+    }
+
+    .footer__socials-img {
+        width: 16vw;
+    }
+
+    .footer__credits {
+        display: flex;
+        flex-direction: column-reverse;
+        font-size: 6vw;
+    }
+
+    .fruit_13 {
+        bottom: 68vw;
+        right: 82vw;
+    }
+
+    .catalog__footer-frukt {
+        left: 17vw;
+        bottom: 45vw;
+        width: 25vw;
+        height: 20vw;
+    }
+
+    .catalog__prod-btn {
+        position: relative;
+        z-index: 45;
+    }
+
+    .catalog__footer-wata {
+        width: 30vw;
+        height: 50vw;
+        top: 128vw;
+    }
+
+    .catalog__footer-slogan {
+        left: 2.5vw;
+        width: 95vw;
+        height: 48vw;
+        top: 79vw;
+        font-size: 7vw;
+        padding-top: 18vw;
+    }
+
+    .catalog__footer-malina {
+        right: 0;
+    }
+
+    .catalog__footer-banan {
+        bottom: 47vw;
+        width: 30vw;
+        height: 25vw;
+    }
+
+    .catalog__footer-klubnika {
+        display: none;
+    }
+
+    .catalog__footer-apelsin {
+        bottom: 68vw;
+    }
+
+    .catalog__footer-bird {
+        width: 25vw;
+        height: 30vw;
+        left: 8vw;
+        bottom: 80vw;
+    }
+
+    .catalog__footer-bg {
+        height: 230vw;
+        margin-top: -20vw;
+    }
+
+    .is-scanword {
+        width: 30vw;
+        height: 20vw;
+    }
+
+    .img-dcrop {
+        margin-right: -10vw;
+        padding-left: 5vw;
+    }
+
+    .catalog__prod-btn {
+        display: block;
+        margin: 3vw auto 5vw auto;
+        width: 45vw;
+        height: 12vw;
+        font-size: 7vw;
+        padding-top: 2.7vw;
+    }
+
+    .is-new {
+        width: 30vw;
+        height: 15vw;
+        top: -5vw;
+    }
+
+    .header__catalog-yellow {
+        font-size: 8vw;
+    }
+
+    .catalog__prod-text__p {
+        font-size: 5vw;
+    }
+    .catalog__prod-text {
+        width: 100%;
+        padding-top: 0;
+        margin-top: -5vw;
+    }
+
+    .cntainer {
+        width: 95vw;
+    }
+
+
+    .header__nav-section {
+        z-index: 200;
+    }
+    .catalog__prods-row {
+        flex-direction: column;
+    }
+
+    .catalog__prods-row:nth-child(2n) {
+        flex-direction: column;
+    }
+
+    .catalog__prod-img__container {
+        width: 100%;
+    }
+
+    .catalog__ona-text {
+        font-size: 5vw;
+        padding-top: 16vw;
+    }
+
+    .catalog__prods-header {
+        display: none;
+    }
+
+    .header__nav-menu__item-link {
+        font-size: 8vw;
+        padding: 1vw;
+    }
+
+    .header__nav-section {
+        justify-content: flex-start;
+    }
+    body {
+        height: 100%;
+    }
+
+    html {
+        height: 100%;
+    }
+
+    .c404__page {
+        background-size: contain;
+        background-position: bottom;
+        background-color: #4fdfff;
+        height: 100%;
+    }
+
+    .catalog__slider-but {
+        bottom: auto;
+        top: 40vw;
+    }
+
+    #mobislider {
+        position: relative;
+    }
+
+    .catalog__slider-but#swiper-button-next {
+        right: 1vw;
+        display: block;
+    }
+
+    .catalog__slider-but#swiper-button-prev {
+        left: 1vw;
+        display: block;
+    }
+
+    .contacts__fruit_15 {
+        bottom: 49vw;
+        right: 36vw;
+        width: 24vw;
+        height: 15vw;
+    }
+
+    .contacts__phrase {
+        font-size: 5vw;
+        width: 97vw;
+        white-space: nowrap;
+    }
+
+    .contacts__sub-phrase {
+        font-size: 3.7vw;
+        width: 97vw;
+        margin-top: 0vw;
+    }
+
+    .contacts__feedback-form-wrapper {
+        margin-top: 18vw;
+    }
+
+    .contacts__sub-phrase:after {
+        width: 14vw;
+        height: 16vw;
+        bottom: -18vw;
+        right: 0;
+    }
+
+    .contacts__she-hand {
+        width: 15vw;
+        height: 9vw;
+        top: -4vw;
+        right: 17vw;
+    }
+
+    section.contacts__wrapper-bg {
+        height: 249vw;
+        padding-top: 11vw;
+    }
+
+    .contacts__footer {
+        height: 45vw;
+    }
+
+    .contacts__cloud {width: 80vw;height: 45vw;font-size: 7vw;padding-top: 22vw;}
+
+    .contacts__form-she {
+        width: 53vw;
+        height: 90vw;
+        left: 12vw;
+    }
+
+    .cinema__header {
+        height: 68vw;
+    }
+
+    .cinema__header__cloud {
+        width: 86vw;
+        height: 45vw;
+        top: 18vw;
+        font-size: 5vw;
+        padding-top: 20vw;
+    }
+
+    .cinema__header__she {
+        width: 30vw;
+        height: 52vw;
+        bottom: 0;
+        right: -10vw;
+    }
+
+    .cinema__photo-container {
+        width: 90vw;
+        height: 64vw;
+        padding-top: 4.5vw;
+    }
+
+    .cinema__photo-container__typical-photo {
+        width: 86vw;
+        height: 55.5vw;
+    }
+
+    .cinema__open-header {
+        font-size: 10vw;
+    }
+
+    .cinema__chairs {
+        width: 80vw;
+        height: 40vw;
+    }
+
+    .cinema__footer {
+        height: 100vw;
+    }
+
+    a.cinema__load-more {
+        font-size: 6vw;
+    }
+
+    .cinema__footer-camera {
+        bottom: 46vw;
+        right: 0vw;
+    }
+
+    .cinema__photo-caption {
+        font-size: 5vw;
+    }
+
+    .konkursy__header-bg {
+        padding-top: 18vw;
+    }
+
+    .konkursy__cloud1 {
+        width: 80vw;
+        height: 46vw;
+        font-size: 5vw;
+        padding-top: 19vw;
+    }
+
+    .konkursy__ona {
+        top: 41vw;
+        right: 0;
+        width: 65vw;
+        height: 58vw;
+    }
+
+    .konkursy__cloud4 {
+        margin-top: 20vw;
+        font-size: 5vw;
+        width: 90vw;
+        height: 55vw;
+        padding-top: 19vw;
+        margin-left: 7vw;
+    }
+
+    .konkursy__footer-bg {
+        margin-top: 59vw;
+    }
+
+    .games__footer-tree-1.konkursy__tree1 {
+        display: none;
+    }
+
+    .konkursy__footer-she {
+        left: 20vw;
+        z-index: 45;
+        width: 25vw;
+        height: 40vw;
+        bottom: 51vw;
+    }
+
+    .konkursy__ballon3 {
+        display: none;
+    }
+
+    .konkursy__cherry {
+        left: 42vw;
+        bottom: 70vw;
+    }
+
+    .konkursy__footer-bg {
+        height: 117vw;
+    }
+
+    .konkursy__banan {
+        top: -6vw;
+    }
+
+    .mir__slide-preview-text {
+        font-size: 5vw;
+    }
+
+    .mir__slide-preview-number {
+        width: 10vw;
+        height: 10vw;
+        font-size: 5vw;
+        bottom: 11vw;
+    }
+
+    .mir__footer-bg {
+        height: 122vw;
+    }
+
+    .mir__arrow {
+        top: 15.5vw;
+    }
+
+    .mir__slide-preview-img {
+    }
+
+    .mir__slide-preview-wrapper {
+    }
+
+    .games__footer-sign {
+        width: 40vw;
+        height: 50vw;
+    }
+
+    .games__footer-bg {
+        height: 115vw;
+    }
+
+    .games__footer-tree-2a {
+        bottom: 45vw;
+        left: -9vw;
+        height: 54vw;
+        width: 29vw;
+        z-index: 25;
+    }
+
+    .games__footer-tree-1 {
+        top: 0;
+    }
+
+    .cinema__load-more:after {
+        width: 8vw;
+        height: 8vw;
+        margin-top: -1vw;
+    }
+
+    .games__head-cloud {
+        width: 90vw;
+        height: 55vw;
+        font-size: 7.5vw;
+        padding-top: 20vw;
+    }
+
+    .game__stairs {
+        display: none;
+    }
+
+    .games__head-she {
+        top: 11vw;
+        right: -3.875vw;
+        width: 60vw;
+        height: 63vw;
+    }
+
+    .games__header-hand {
+        display: none;
+    }
+
+    .games__head-bg {
+        margin-bottom: 96vw;
+    }
+
+    .game__1-number {
+        width: 20vw;
+        height: 20vw;
+        left: 0vw;
+        top: 9vw;
+        font-size: 10vw;
+        padding-top: 6vw;
+        padding-left: 2vw;
+    }
+
+    a.games__load-more {
+        font-size: 6vw;
+        margin-bottom: 62vw;
+    }
+    .mom2__footer-tree-2a {
+        display: none;
+    }
+
+    .mom2__footer-vagon0 {
+        top: 14vw;
+    }
+
+    .mom2__footer-vagon1 {
+        top: 38vw;
+    }
+
+    .mom2__footer-vagon2 {
+        top: 41vw;
+    }
+
+    .mom2__footer-vagon3 {
+        top: 40vw;
+    }
+
+    .mom2__bubble1.bubble14 {
+        top: 19vw;
+    }
+
+    .mom2__bird1 {
+        width: 20vw;
+        height: 20vw;
+    }
+
+    .mom2__bird2 {
+        width: 20vw;
+        height: 20vw;
+    }
+
+    .mom2__kinder {
+        width: 20vw;
+        height: 20vw;
+        left: 0vw;
+        top: 8vw;
+    }
+
+    .mom2__footer-bg {
+        margin-top: 3vw;
+        height: 107vw;
+    }
+
+    .game__1-title {
+        font-size: 6vw;
+    }
+
+    .mom__1-btn,
+    .game__1-btn {
+        width: 30vw;
+        height: 7vw;
+    }
+
+    a.mom2__load-more {
+        font-size: 6vw;
+        margin-bottom: 54vw;
+    }
+
+    .mom2__header-bg {
+        height: 82.4375vw;
+    }
+
+    .mom2__header-cloud {
+        top: 8vw;
+        font-size: 7vw;
+        width: 74vw;
+        height: 70vw;
+        right: -8vw;
+        padding-top: 31vw;
+    }
+
+    .mom2__header-she {
+        top: 29.6vw;
+        left: 9.2vw;
+    }
+
+    .mom2__header-hand {
+        top: 60.2vw;
+        left: 6.2vw;
+    }
+
+    .mom2__bubble1 {
+        width: 10.625vw;
+        height: 10.6875vw;
+        right: 39vw;
+    }
+
+    .mom2__bubble2 {
+        width: 10.8125vw;
+        height: 10.8125vw;
+    }
+
+    .bubble3 {
+        left: -1vw;
+    }
+
+    .mom2__caption-title {
+        font-size: 7vw;
+    }
+
+    .mom2__caption-text {
+        width: 85vw;
+        padding: 1vw;
+        font-size: 4vw;
+        line-height: 1.1;
+    }
+
+    .mom2__tv-section-bg {
+        height: 109vw;
+    }
+
+    .mom2__next {
+        width: 10vw;
+        height: 10vw;
+        right: 20vw;
+        bottom: .5vw;
+    }
+
+    .mom2__prev {
+        width: 10vw;
+        height: 10vw;
+        left: 22vw;
+        bottom: .5vw;
+    }
+
+    .game__1-cloud {
+        width: 87vw;
+        height: 50vw;
+    }
+
+    .game__1.mom2__game1 {
+        padding-left: 0vw;
+    }
+
+    #mobislider .swiper-slide {
+        transition: .2s;
+        opacity: 0;
+    }
+
+    #mobislider .swiper-slide-active {
+        opacity: 1;
+    }
+
+    .header__nav-menu-close {
+        display: block;
+        position: fixed;
+        background: url("../img/404__back.png") center center/contain no-repeat;
+        width: 13.875vw;
+        height: 13.875vw;
+        top: 2vw;
+        right: 2vw;
+    }
+
+    .header__nav-menu-show {
+        display: block;
+        position: fixed;
+        width: 10vw;
+        height: 5.6vw;
+        border-top: 1.2vw solid #0e6ec1;
+        border-bottom: 1.2vw solid #0e6ec1;
+        right: 10vw;
+        top: 4vw;
+        z-index: 200;
+    }
+
+    .header__nav-menu-show:after {
+        content: '';
+        position: absolute;
+        top: 1vw;
+        width: 100%;
+        left: 0;
+        height: 1.2vw;
+        background: #0e6ec1;
+    }
+
+    .mom2__prev.cat-detail-swiper-btn {left: 5vw;}
+
+    .mom2__next.cat-detail-swiper-btn {right: 5vw;}
+
+
+    .catalog__prod-text.cat-detail {
+        padding: 0;
+    }
+
+    a.c404__back-btn.cat-detail {
+        font-size: 6vw;
+        bottom: -18vw;
+    }
+
+    .c404__back-btn.cat-detail:after {
+        width: 8vw;
+        height: 8vw;
+    }
+    .catalog__uh-ti {
+        bottom: -29vw;
+    }
+}

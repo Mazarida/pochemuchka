@@ -1,0 +1,111 @@
+
+
+
+sudo a2dissite \\\\22213\213\.*.conf
+sudo a2dissite abd.ma-emotion.ru.conf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo a2dissite defav.ma-emotion.ru.conf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo a2dissite ma_defavorite.conf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo a2dissite ugpromsnab.ma-emotion.ru.conf
+
+sudo a2dissite verticalgarden.ma-emotion.ru.conf
+sudo a2dissite verticalgarden2.ma-emotion.ru.conf
+
+
+sudo a2dissite voltmart-wp.ma-emotion.ru.conf
+sudo a2dissite vr24.ma-emotion.ru.conf
+
+
+
+
+
+
+sudo a2dissite wsby.ma-emotion.ru.conf
+
+sudo a2dissite youngphotography.ma-emotion.ru.conf
+sudo a2dissite ytsite.ma-emotion.ru.conf
+sudo a2dissite zuby-ansee.ma-emotion.ru.conf
